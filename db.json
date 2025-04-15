@@ -1,0 +1,270 @@
+{
+  "seller": [
+    {
+      "id": "ca5b",
+      "name": "daniel braun",
+      "email": "daniel@seller.com",
+      "password": "abc123"
+    },
+    {
+      "id": "0790",
+      "name": "jonas sager",
+      "email": "jonas@seller.com",
+      "password": "abc123jonas"
+    },
+    {
+      "id": "8690",
+      "name": "Bruce",
+      "password": "123@abc",
+      "email": "bruce@test.com"
+    },
+    {
+      "id": "c090",
+      "name": "sam ",
+      "password": "abc@123",
+      "email": "sam@test.com"
+    },
+    {
+      "id": "82e6",
+      "name": "Tom",
+      "password": "123@abc",
+      "email": "tom@test.com"
+    },
+    {
+      "id": "4d5d",
+      "name": "Daniel Braun",
+      "password": "123@abc",
+      "email": "Daniel.Braun@msg.group"
+    }
+  ],
+  "products": [
+    {
+      "name": "iPhone 15",
+      "price": "899",
+      "category": "mobile phone",
+      "color": "green",
+      "description": "I'ts an Apple Product !",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.T4u9GW43D3BmNgavyTfA_wHaHa?rs=1&pid=ImgDetMain",
+      "id": "16b3"
+    },
+    {
+      "id": "75b5",
+      "name": "Dell Laptop",
+      "price": "1500",
+      "category": "Laptop",
+      "color": "lightgrey",
+      "description": "A Dell Product",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.quTMEpAuMagTY-cvilZjsgHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "120",
+      "category": "Shoe",
+      "color": "White",
+      "description": "Best running Shoes",
+      "image": "https://cdn.volleyballdirekt.de/full/NICW2288-111.jpg",
+      "id": "6103"
+    },
+    {
+      "id": "3190",
+      "name": "Air Pods pro",
+      "price": "199",
+      "category": "Wireless Headphones",
+      "color": "white",
+      "description": "An Apple Product",
+      "image": "https://files.refurbed.com/ii/apple-airpods-pro-2-1699965303.jpg?t=fitdesign&h=600&w=800&t=convert&f=webp"
+    },
+    {
+      "id": "e812",
+      "name": "Roccat Keyboard",
+      "price": "115",
+      "category": "Keyboard",
+      "color": "white",
+      "description": "A Roccat Keyboard",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.qjOW-avbvj_tjih-DRDJ1gHaHa?w=184&h=184&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },
+    {
+      "name": "iPhone 16",
+      "price": "1699",
+      "category": "mobile",
+      "color": "Red",
+      "description": "An Apple product",
+      "image": "https://www.bing.com/th?id=OPEC.0qxkCutkx%2fkpYw474C474&o=5&pid=21.1&w=148&h=198&qlt=100&dpr=1,5&bw=6&bc=FFFFFF",
+      "id": "13dd"
+    },
+    {
+      "id": "a26a",
+      "name": "Apple Watch",
+      "price": "199",
+      "category": "Watch",
+      "color": "Black",
+      "description": "An Apple Product",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.BmDZ40Bz9RZWVrGaETq_6gHaIp?w=181&h=212&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },
+    {
+      "id": "c573",
+      "name": "Logitech G Pro X",
+      "price": "120",
+      "category": "Mouse",
+      "color": "Black",
+      "description": "A Logitec high quality mouse!",
+      "image": "https://cdn.idealo.com/folder/Product/203223/4/203223404/s1_produktbild_gross/logitech-g-pro-x-superlight-2-schwarz.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "af6c",
+      "name": "Peter Parker",
+      "email": "peter.parker@123",
+      "password": "123@abc"
+    },
+    {
+      "id": "5a6c",
+      "name": "Daniel Braun",
+      "email": "Daniel.Braun@msg.group",
+      "password": "123bc"
+    }
+  ],
+  "cart": [
+    {
+      "id": "ca99",
+      "name": "Dell Laptop",
+      "price": "1500",
+      "category": "Laptop",
+      "color": "lightgrey",
+      "description": "A Dell Product",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.quTMEpAuMagTY-cvilZjsgHaHa?rs=1&pid=ImgDetMain",
+      "quantity": 1,
+      "productId": "75b5",
+      "userId": "af6c"
+    },
+    {
+      "id": "9a8b",
+      "name": "iPhone 15",
+      "price": "899",
+      "category": "mobile phone",
+      "color": "green",
+      "description": "I'ts an Apple Product !",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.T4u9GW43D3BmNgavyTfA_wHaHa?rs=1&pid=ImgDetMain",
+      "quantity": 1,
+      "productId": "16b3",
+      "userId": "af6c"
+    },
+    {
+      "id": "b5bc",
+      "name": "Air Pods pro",
+      "price": "199",
+      "category": "Wireless Headphones",
+      "color": "white",
+      "description": "An Apple Product",
+      "image": "https://files.refurbed.com/ii/apple-airpods-pro-2-1699965303.jpg?t=fitdesign&h=600&w=800&t=convert&f=webp",
+      "quantity": 1,
+      "productId": "3190",
+      "userId": "af6c"
+    },
+    {
+      "id": "da7b",
+      "name": "iPhone 15",
+      "price": "899",
+      "category": "mobile phone",
+      "color": "green",
+      "description": "I'ts an Apple Product !",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.T4u9GW43D3BmNgavyTfA_wHaHa?rs=1&pid=ImgDetMain",
+      "quantity": 1,
+      "productId": "16b3",
+      "userId": "af6c"
+    },
+    {
+      "id": "11ee",
+      "name": "iPhone 15",
+      "price": "899",
+      "category": "mobile phone",
+      "color": "green",
+      "description": "I'ts an Apple Product !",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.T4u9GW43D3BmNgavyTfA_wHaHa?rs=1&pid=ImgDetMain",
+      "quantity": 1,
+      "productId": "16b3",
+      "userId": "af6c"
+    },
+    {
+      "id": "f132",
+      "name": "Air Pods pro",
+      "price": "199",
+      "category": "Wireless Headphones",
+      "color": "white",
+      "description": "An Apple Product",
+      "image": "https://files.refurbed.com/ii/apple-airpods-pro-2-1699965303.jpg?t=fitdesign&h=600&w=800&t=convert&f=webp",
+      "quantity": 1,
+      "productId": "3190",
+      "userId": "af6c"
+    },
+    {
+      "id": "be88",
+      "name": "Dell Laptop",
+      "price": "1500",
+      "category": "Laptop",
+      "color": "lightgrey",
+      "description": "A Dell Product",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.quTMEpAuMagTY-cvilZjsgHaHa?rs=1&pid=ImgDetMain",
+      "quantity": 1,
+      "productId": "75b5",
+      "userId": "af6c"
+    },
+    {
+      "id": "6e59",
+      "name": "Nike Shoes",
+      "price": "120",
+      "category": "Shoe",
+      "color": "White",
+      "description": "Best running Shoes",
+      "image": "https://cdn.volleyballdirekt.de/full/NICW2288-111.jpg",
+      "quantity": 9,
+      "productId": "6103",
+      "userId": "af6c"
+    },
+    {
+      "id": "d6cd",
+      "name": "Dell Laptop",
+      "price": "1500",
+      "category": "Laptop",
+      "color": "lightgrey",
+      "description": "A Dell Product",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.quTMEpAuMagTY-cvilZjsgHaHa?rs=1&pid=ImgDetMain",
+      "quantity": 1,
+      "productId": "75b5",
+      "userId": "af6c"
+    },
+    {
+      "id": "421a",
+      "name": "Dell Laptop",
+      "price": "1500",
+      "category": "Laptop",
+      "color": "lightgrey",
+      "description": "A Dell Product",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.quTMEpAuMagTY-cvilZjsgHaHa?rs=1&pid=ImgDetMain",
+      "quantity": 1,
+      "productId": "75b5",
+      "userId": "af6c"
+    }
+  ],
+  "orders": [
+    {
+      "id": "8b99",
+      "email": "",
+      "address": "",
+      "contact": "",
+      "paymentMethod": "paypal",
+      "totalPrice": 999,
+      "userId": "5a6c"
+    },
+    {
+      "id": "07ba",
+      "email": "Daniel.Braun@msg.group",
+      "address": "lol 19a",
+      "contact": "0000000000",
+      "paymentMethod": "paypal",
+      "totalPrice": 1919,
+      "userId": "5a6c"
+    }
+  ]
+}
