@@ -10,4 +10,3 @@ server.use(router);
 server.listen(PORT, () => {
     console.log(`JSON Server läuft auf Port ${PORT}`);
 });
-(port);
